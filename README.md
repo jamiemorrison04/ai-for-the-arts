@@ -7,6 +7,7 @@ I am Jamie, currently studying **Music** and **Digital Media** joint honours in 
 ### Purpose of this Repository
 Last semester I used GitHub to create a portfolio for another DMIS class: **Music Curation & Analytics**. Therefore this year I am excited to use it again to create another portfolio, this time for my class **AI for the Arts and Humanities**.
 
+### Goals
 1. Consolidate my learning and understanding of how to use GitHub
 2. Consolidate my learning and understanding of how to use Python
 3. How to effectively collaborate with others on a task
