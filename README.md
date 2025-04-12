@@ -14,7 +14,8 @@ Last semester I used GitHub to create a portfolio for another DMIS class: **Musi
 2. Consolidate my learning and understanding of how to use Python
 3. How to effectively collaborate with others on a task
 
-*** Content
-1. Notebook titled AI_A_Portfolio_2777134 containing most lab tasks done throughout the semester.
-2. Second notebook containing task on machine learning by example and peer work.
-3. Finally, a third notebook containing the last task of the Lab book, where I present a design for a creative large-language-based model and its uses in relation to culture and society.
+### Content
+1. First notebook titled AI_A_Portfolio_2777134.ipynb containing most lab tasks done throughout the semester.
+2. Second notebook titled Machine-Learning-by-Example-from-Start-to-End.ipynb containing task on machine learning by example and peer work.
+3. A third notebook titled MusicMentor_LLM_Notebook.ipynb containing the last task of the Lab Book, where I present a design for a creative large-language-based model and its uses in relation to culture and society.
+4. Lastly, other files can be found in my repository such as images, audio files, and licensing.
